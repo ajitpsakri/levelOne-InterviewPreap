@@ -21,6 +21,13 @@
 
 1. Create a web app where I can input a text. Now, create three buttons h1, h2, h3. When I click on any of the button, the text should become `h1, h2, or h3`.
 
+    1. Learnings
+        1. ```parentNode```
+        2. ```parentElement```
+        3. ```parentNode.removeChild()```
+        4. ```parentNode.insetBefore()```
+    2. Links 
+        1. [Vanila Js](https://replit.com/@ajitpsakri/Q4#index.html)
 1. Create a web app where I can input a text. Now, create three buttons: `red, green, blue`. Clicking on the button should change the text color.
 
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
