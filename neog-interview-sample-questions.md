@@ -12,9 +12,12 @@
     1. Learning's
         1.  ```.getComputedStyle()```
         2. Difference between ```parseInt()``` and ```Number()```
+        3. Using variables in inline style in React JS 
     2. Links
 
         1.[Vanilla JS](https://replit.com/@ajitpsakri/Q3#script.js) 
+        
+        2.[React JS](https://codesandbox.io/s/q3-sndtz?file=/src/App.js) 
 
 1. Create a web app where I can input a text. Now, create three buttons h1, h2, h3. When I click on any of the button, the text should become `h1, h2, or h3`.
 
