@@ -30,6 +30,7 @@
 1. Create a web app where I can input a text. Now, create three buttons: `red, green, blue`. Clicking on the button should change the text color.	
 	1. Links
 		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q5#index.html)
+		2. [React JS](https://codesandbox.io/s/q5-sh8cp?file=/src/App.js)
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
 
 1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
