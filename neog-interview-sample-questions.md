@@ -4,7 +4,7 @@
     - My name is Ajit Sakri, i'm last year undergrad student from a city called Hubli in karnataka. I started learning web development at the end of 2020, Before doing level 0 I was doing a javascript course from freecodecamp. As i'm in my last year i have to work hard in good direction so neogcamp offers exactly that and you also get to work with very hardworking and passionate people like tanay pratap sir 
 
 1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
-     1. [Vanilla Js](https://replit.com/@ajitpsakri/SampleInterviewQ1#script.js)
+    1. [Vanilla Js](https://replit.com/@ajitpsakri/SampleInterviewQ1#script.js)
     2. [React JS](https://codesandbox.io/s/question-one-93qg5?file=/src/App.js) 
 
 1. Create a web app where I can input a text. Now create two buttons + and -. On clicking + increase the fontSize by `2px` and vice versa.
@@ -14,10 +14,8 @@
         2. Difference between ```parseInt()``` and ```Number()```
         3. Using variables in inline style in React JS 
     2. Links
-
-        1.[Vanilla JS](https://replit.com/@ajitpsakri/Q3#script.js) 
-        
-        2.[React JS](https://codesandbox.io/s/q3-sndtz?file=/src/App.js) 
+    	 1. [Vanilla JS](https://replit.com/@ajitpsakri/Q3#script.js)
+    	2. [React JS](https://codesandbox.io/s/q3-sndtz?file=/src/App.js) 
 
 1. Create a web app where I can input a text. Now, create three buttons h1, h2, h3. When I click on any of the button, the text should become `h1, h2, or h3`.
 
@@ -27,7 +25,8 @@
         3. ```parentNode.removeChild()```
         4. ```parentNode.insetBefore()```
     2. Links 
-        1. [Vanila Js](https://replit.com/@ajitpsakri/Q4#index.html)
+      	1. [Vanila Js](https://replit.com/@ajitpsakri/Q4#index.html)
+				2. [React ](https://codesandbox.io/s/q4-7542y?file=/src/App.js)
 1. Create a web app where I can input a text. Now, create three buttons: `red, green, blue`. Clicking on the button should change the text color.
 
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
