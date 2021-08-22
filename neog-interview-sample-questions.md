@@ -1,7 +1,7 @@
 # Sample interview questions
  
 1. Give me your introduction and tell me why do you want to join neogcamp? 
-    - My name is Ajit Sakri, i'm last year undergrad student from a city called Hubli in karnataka. I started learning web development at the end of 2020, Before doing level 0 I was doing a javascript course from freecodecamp. As i'm in my last year i have to work hard in good direction so neogcamp offers exactly that and you also get to work with very hardworking and passionate people like tanay pratap sir 
+    <!-- - My name is Ajit Sakri, i'm last year undergrad student from a city called Hubli in karnataka. I started learning web development at the end of 2020, Before doing level 0 I was doing a javascript course from freecodecamp. As i'm in my last year i have to work hard in good direction so neogcamp offers exactly that and you also get to work with very hardworking and passionate people like tanay pratap sir  -->
 
 1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
     1. [Vanilla Js](https://replit.com/@ajitpsakri/SampleInterviewQ1#script.js)
@@ -32,6 +32,8 @@
 		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q5#index.html)
 		2. [React JS](https://codesandbox.io/s/q5-sh8cp?file=/src/App.js)
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
+	1. Links
+		1. [CLI App](https://replit.com/@ajitpsakri/Q6#index.js)
 
 1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
 
