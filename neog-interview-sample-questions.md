@@ -36,7 +36,9 @@
 		1. [CLI App](https://replit.com/@ajitpsakri/Q6#index.js)
 
 1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
-
+	1. Links
+		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q7#script.js)
+		2. [React Js](https://codesandbox.io/s/q7-w4xg5?file=/src/App.js:90-150)
 1. Here's an API. Create a web app to call this API with your full name and print the response. This could be extended where we ask you to do something with the response. Like add a text, or capitalise etc.
 
 1. Here's an API. It will give an error. Write a web app, call this API and read the error message. Show user the error message.
