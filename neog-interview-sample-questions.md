@@ -44,6 +44,7 @@
 		1. Postman
 	1. Links
 		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q8#script.js)
+		
 
 1. Here's an API. It will give an error. Write a web app, call this API and read the error message. Show user the error message.
 
@@ -55,6 +56,7 @@
 Someone can ask to make the submit button disabled. Some can ask to make the input field green or red depending on input.
    1. Links
     1. [Vanilla JS](https://replit.com/@ajitpsakri/Q12#script.js)
+	2. [React JS](https://codesandbox.io/s/q12-8whbi?file=/src/App.js)
 
 1. Show me your portfolio. Okay, I like the button you have made. Can you re create the button without looking at source code? You're free to Google though. 
 
