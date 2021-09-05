@@ -53,6 +53,7 @@
 
 1. Create a password checker web app. If password is lesser than 10 characters then show an error to user otherwise show success. 
 Someone can ask to make the submit button disabled. Some can ask to make the input field green or red depending on input.
+	1. [Vanilla JS](https://replit.com/@ajitpsakri/Q12#script.js)
 
 1. Show me your portfolio. Okay, I like the button you have made. Can you re create the button without looking at source code? You're free to Google though. 
 
