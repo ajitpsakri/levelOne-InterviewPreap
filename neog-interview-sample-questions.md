@@ -76,4 +76,6 @@ Write a function which takes two objects and return the person with more power b
    		1. Leap year
 		1. last day of the year
 		1. last day of the month
-1. 
+1. The DOM Challenge by [devkodeio](https://github.com/devkodeio/the-dom-challenge) 
+1. A list of questions based on less-known or tricky stuff in Javascript language. - [Link](https://github.com/RohitDhatrak/JavasctiptQuestions)
+
