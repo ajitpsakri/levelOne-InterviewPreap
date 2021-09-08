@@ -45,7 +45,6 @@
 	1. Links
 		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q8#script.js)
 		
-
 1. Here's an API. It will give an error. Write a web app, call this API and read the error message. Show user the error message.
 
 1. Here's an API, it can give two errors. Either 404, or 401. If the error is 404, show the user `'page not found'` and if the error is 401, show the user `'you are not logged in'`.
@@ -72,3 +71,9 @@ Say if every character in name is worth 35 power points.
 Write a function which takes two objects and return the person with more power based on their name and power both.
 
 1. Create a CLI app which would detect fake news. This app will take news as input and then source. If source is Facebook or whatsapp then it will output user saying, `"Don't believe things on FB and Whatsapp"`. Can you extend this to include telegram as well?
+1. Create a function that returns next date, which you have implimented in "birthday palindrome app". 
+  	1. Handle:
+   		1. Leap year
+		1. last day of the year
+		1. last day of the month
+1. 
