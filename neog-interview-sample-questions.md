@@ -5,16 +5,13 @@
 
 1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
 
-
 1. Create a web app where I can input a text. Now create two buttons + and -. On clicking + increase the fontSize by `2px` and vice versa.
-
 
 1. Create a web app where I can input a text. Now, create three buttons h1, h2, h3. When I click on any of the button, the text should become `h1, h2, or h3`.
 
 1. Create a web app where I can input a text. Now, create three buttons: `red, green, blue`. Clicking on the button should change the text color.	
 
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
-
 
 1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
 
@@ -48,7 +45,11 @@ Write a function which takes two objects and return the person with more power b
    		1. Leap year
 		1. last day of the year
 		1. last day of the month
+1. Create a CLI app which takes date of birth and name of 5 students. Display student's name with their date of birth in ascending order. Question may be extended to: ask user if the order should be ascending or descending
 
+1. Write a function which returns true if the given year is leap year.Question may be extended as: give next 5 leap year list 
+
+1. 
 
 ## Theory questions
 1. Difference between Function Parameters and Arguments.
@@ -62,3 +63,4 @@ Write a function which takes two objects and return the person with more power b
 1. Difference between parseInt() an Number()
 1. What are promises?
 1. Difference between js and jsx
+1. Explain how Internet works
