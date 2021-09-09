@@ -4,46 +4,21 @@
 1. Give me your introduction and tell me why do you want to join neogcamp? 
 
 1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
-    1. [Vanilla Js](https://replit.com/@ajitpsakri/SampleInterviewQ1#script.js)
-    2. [React JS](https://codesandbox.io/s/question-one-93qg5?file=/src/App.js) 
+
 
 1. Create a web app where I can input a text. Now create two buttons + and -. On clicking + increase the fontSize by `2px` and vice versa.
 
-    1. Learning's
-        1.  ```.getComputedStyle()```
-        2. Difference between ```parseInt()``` and ```Number()```
-        3. Using variables in inline style in React JS 
-    2. Links
-    	 1. [Vanilla JS](https://replit.com/@ajitpsakri/Q3#script.js)
-    	2. [React JS](https://codesandbox.io/s/q3-sndtz?file=/src/App.js) 
 
 1. Create a web app where I can input a text. Now, create three buttons h1, h2, h3. When I click on any of the button, the text should become `h1, h2, or h3`.
 
-    1. Learnings
-        1. ```parentNode```
-        2. ```parentElement```
-        3. ```parentNode.removeChild()```
-        4. ```parentNode.insetBefore()```
-    2. Links 
-      	1. [Vanila Js](https://replit.com/@ajitpsakri/Q4#index.html)
-		2. [React JS](https://codesandbox.io/s/q4-7542y?file=/src/App.js)
 1. Create a web app where I can input a text. Now, create three buttons: `red, green, blue`. Clicking on the button should change the text color.	
-	1. Links
-		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q5#index.html)
-		2. [React JS](https://codesandbox.io/s/q5-sh8cp?file=/src/App.js)
+
 1. Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
-	1. Links
-		1. [CLI App](https://replit.com/@ajitpsakri/Q6#index.js)
+
 
 1. Create a web app with a button loaded. Show a text `loading...` on a web app. However, hide it if I click on the button loaded.
-	1. Links
-		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q7#script.js)
-		2. [React Js](https://codesandbox.io/s/q7-w4xg5?file=/src/App.js:90-150)
+
 1. Here's an API. Create a web app to call this API with your full name and print the response. This could be extended where we ask you to do something with the response. Like add a text, or capitalise etc.
-	1. Learning
-		1. Postman
-	1. Links
-		1. [Vanilla JS](https://replit.com/@ajitpsakri/Q8#script.js)
 		
 1. Here's an API. It will give an error. Write a web app, call this API and read the error message. Show user the error message.
 
@@ -53,9 +28,6 @@
 
 1. Create a password checker web app. If password is lesser than 10 characters then show an error to user otherwise show success. 
 Someone can ask to make the submit button disabled. Some can ask to make the input field green or red depending on input.
-   1. Links
-    1. [Vanilla JS](https://replit.com/@ajitpsakri/Q12#script.js)
-	2. [React JS](https://codesandbox.io/s/q12-8whbi?file=/src/App.js)
 
 1. Show me your portfolio. Okay, I like the button you have made. Can you re create the button without looking at source code? You're free to Google though. 
 
