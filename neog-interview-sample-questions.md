@@ -1,7 +1,7 @@
 # Sample interview questions
+## Practical Questions
  
 1. Give me your introduction and tell me why do you want to join neogcamp? 
-    <!-- - My name is Ajit Sakri, i'm last year undergrad student from a city called Hubli in karnataka. I started learning web development at the end of 2020, Before doing level 0 I was doing a javascript course from freecodecamp. As i'm in my last year i have to work hard in good direction so neogcamp offers exactly that and you also get to work with very hardworking and passionate people like tanay pratap sir  -->
 
 1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
     1. [Vanilla Js](https://replit.com/@ajitpsakri/SampleInterviewQ1#script.js)
@@ -76,6 +76,17 @@ Write a function which takes two objects and return the person with more power b
    		1. Leap year
 		1. last day of the year
 		1. last day of the month
-1. The DOM Challenge by [devkodeio](https://github.com/devkodeio/the-dom-challenge) 
-1. A list of questions based on less-known or tricky stuff in Javascript language. - [Link](https://github.com/RohitDhatrak/JavasctiptQuestions)
 
+
+## Theory questions
+1. Difference between Function Parameters and Arguments.
+1. Difference between array and object 
+1. Explain version control 
+1. Explain CSS Box Model
+1. Explain Meta Tags
+1. How does .querySelector() work internally?
+1. What is an API
+1. Difference between innerText and innerHTML
+1. Difference between parseInt() an Number()
+1. What are promises?
+1. Difference between js and jsx
