@@ -64,4 +64,4 @@ Write a function which takes two objects and return the person with more power b
 1. What are promises?
 1. Difference between js and jsx
 1. Explain how Internet works
-1. Difference between React.js and vanilla js
+1. Why React.js is better than vanilla js
