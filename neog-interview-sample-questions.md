@@ -49,7 +49,6 @@ Write a function which takes two objects and return the person with more power b
 
 1. Write a function which returns true if the given year is leap year.Question may be extended as: give next 5 leap year list 
 
-1. 
 
 ## Theory questions
 1. Difference between Function Parameters and Arguments.
