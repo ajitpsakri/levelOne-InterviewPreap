@@ -1,5 +1,5 @@
 # Sample interview questions
-## Practical Questions
+## Coding Questions
  
 1. Give me your introduction and tell me why do you want to join neogcamp? 
 
@@ -45,7 +45,7 @@ Write a function which takes two objects and return the person with more power b
    		1. Leap year
 		1. last day of the year
 		1. last day of the month
-1. Create a CLI app which takes date of birth and name of 5 students. Display student's name with their date of birth in ascending order. Question may be extended to: ask user if the order should be ascending or descending
+1. Create a function that sorts an array without using inbuilt functions. 
 
 1. Write a function which returns true if the given year is leap year.Question may be extended as: give next 5 leap year list 
 
@@ -64,3 +64,5 @@ Write a function which takes two objects and return the person with more power b
 1. Difference between js and jsx
 1. Explain how Internet works
 1. Why React.js is better than vanilla js
+1. What is a callback function?
+1. What is DOM?
