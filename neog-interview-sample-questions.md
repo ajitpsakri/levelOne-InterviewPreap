@@ -66,3 +66,7 @@ Write a function which takes two objects and return the person with more power b
 1. Why React.js is better than vanilla js
 1. What is a callback function?
 1. What is DOM?
+1. Difference between var and let 
+1. What are meta tags?
+1. Explain HTML boiler plate.
+1. What is BEM naming convention?
