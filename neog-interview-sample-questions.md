@@ -59,10 +59,10 @@ Write a function which takes two objects and return the person with more power b
 1. How does .querySelector() work internally?
 1. What is an API
 1. Difference between innerText and innerHTML
-1. Difference between parseInt() an Number()
+1. Difference between parseInt() and Number()
 1. What are promises?
 1. Difference between js and jsx
-1. Explain how Internet works
+1. Explain how the Internet works
 1. Why React.js is better than vanilla js
 1. What is a callback function?
 1. What is DOM?
